@@ -1,0 +1,60 @@
+{
+  "category": "file-sharing",
+  "created_date": "2025-09-15T22:48:58.623156",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "owncloud is a free and open-source self-hosted file sync and share solution. ownCloud enables file access, sync and sharing capabilities, providing an open-source alternative to commercial cloud storage services",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/file-sharing/owncloud",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/file-sharing/owncloud",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.623194",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "owncloud",
+  "repository_url": "https://github.com/howtomgr/owncloud",
+  "spec_version": "2.0",
+  "subcategory": "file-sharing",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "file-sharing",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "owncloud Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/file-sharing/owncloud"
+}
